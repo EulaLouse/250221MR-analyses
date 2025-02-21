@@ -1,0 +1,9 @@
+id	Group
+wSA	European
+nwSA	European
+wTH	European
+nwTH	European
+wSA2	East Asian
+nwSA2	East Asian
+wTH2	East Asian
+nwTH2	East Asian

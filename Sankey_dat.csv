@@ -1,0 +1,23 @@
+A,B,C
+MAPT,EUR,Alzheimer disease
+MAPT,EUR,Thermogenesis
+MAPT,EUR,Endocrine resistance
+NCOR1,EUR,"Valine, leucine and isoleucine degradation"
+NCOR1,EUR,Nicotinate and nicotinamide metabolism
+MCCC1,EUR,Parkinson's disease
+BST1,EUR,Parkinson's disease
+NDUFAF2,EUR,Pathways of neurodegeneration - multiple disease
+SNCA,EUR,Pathways of neurodegeneration - multiple disease
+SNCA,EUR,TGF-иг signaling pathway
+SNCA,EUR,MAPK signaling pathway
+SNCA,EAS,Parkinson's disease
+SMAD4,EAS,Pathways of neurodegeneration - multiple disease
+LRRK2,EAS,TGF-╕б signaling pathway
+LRRK2,EAS,MAPK signaling pathway
+LRRK2,EAS,Th17 cell differentiation
+HLA-DQB1,EAS,Th17 cell differentiation
+DNAH17,EAS,Phosphatidylinositol signaling system
+CAB39L,EAS,Phosphatidylinositol signaling system
+RORA,EAS,AMPK signaling pathway
+ITPKB,EAS,Wnt signaling pathway
+IP6K2,EAS,Th1 and Th2 cell differentiation
